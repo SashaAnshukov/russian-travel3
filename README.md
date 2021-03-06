@@ -20,7 +20,7 @@
 HTML5, CSS, Адаптив
 
 Ссылка на проектную работу:
-* https://sashaanshukov.github.io/russian-travel2/
+* https://sashaanshukov.github.io/russian-travel3/
 
 #### **Подготовил**
 *Саша Аншуков*
