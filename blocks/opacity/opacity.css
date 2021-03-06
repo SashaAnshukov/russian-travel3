@@ -1,0 +1,7 @@
+.opacity {
+    transition: 0.55s;
+}
+    
+.opacity:hover {
+    opacity: 0.8;
+}

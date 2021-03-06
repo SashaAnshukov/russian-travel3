@@ -1,0 +1,28 @@
+.footer {
+    max-width: 1184px;
+    /*min-height: 18px;*/
+    display: flex;
+    flex-direction: row;
+    margin-top: 92px;
+    margin-left: 48px;
+    margin-right: 48px;
+    margin-bottom: 24px;
+    justify-content: space-between;
+}
+
+@media screen and (max-width:1023px) {
+    .footer {
+        margin-left: 24px;
+        margin-right: 24px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .footer {
+        flex-wrap: wrap;
+        margin-left: 16px;
+        margin-right: 118px;
+        /*min-height: 310px;*/
+        max-width: 186px;
+    }
+}

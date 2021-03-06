@@ -1,0 +1,26 @@
+.lead__image {
+    position: relative;
+    object-fit: contain;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+/*@media screen and (max-width:1279px) {
+    .lead__image {
+        min-height: 580px;
+    }
+}
+
+@media screen and (max-width:1023px) {
+    .lead__image {
+        min-height: 480px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .lead__image {
+        min-height: 200px;
+    }
+}*/

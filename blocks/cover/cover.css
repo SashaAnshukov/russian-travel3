@@ -1,0 +1,36 @@
+.cover {
+    background-image: url('./../../images/Trainstation.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 48px;
+    margin-right: 48px;
+    max-width: 1184px;
+    min-height: 740px;
+    
+}
+
+@media screen and (max-width:1279px) {
+    .cover {
+        min-height: 640px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+@media screen and (max-width:1023px) {
+    .cover {
+        min-height: 480px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .cover {
+        min-height: 200px;
+    }
+}

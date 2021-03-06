@@ -1,0 +1,5 @@
+@media screen and (max-width:767px) {
+    .footer__link-list-type {
+        margin-bottom: 32px;
+    }
+}

@@ -1,0 +1,33 @@
+.places {
+    min-height: 660px;
+    margin-top: 0;
+    margin-left: 148px;
+    margin-right: 148px;
+    margin-bottom: 92px;
+}
+
+@media screen and (max-width:1279px) {
+    .places {
+        min-height: 640px;
+        margin-left: 48px;
+        margin-right: 48px;
+    }
+}
+
+@media screen and (max-width:1023px) {
+    .places {
+        min-height: 581px;
+        margin-left: 24px;
+        margin-right: 24px;
+        margin-bottom: 72px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .places {
+        min-height: 1042px;
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom: 50px;
+    }
+}

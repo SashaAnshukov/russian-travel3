@@ -1,0 +1,12 @@
+.header__lang-container {
+    display: flex;
+    align-items: flex-end;
+    /*border: 1px dashed red;*/
+}
+
+@media screen and (max-width:767px) {
+    .header_lang-container {
+        padding-top: 30px;
+        padding-left: 0;
+    }
+}

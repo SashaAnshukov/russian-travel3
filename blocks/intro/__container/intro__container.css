@@ -1,0 +1,37 @@
+.intro__container {
+    margin-top: 92px;
+    margin-left: 148px;
+    margin-right: 442px;
+    margin-bottom: 92px;
+    max-width: 690px;
+    /*min-height: 429px;*/
+}
+
+@media screen and (max-width:1279px) {
+    .intro__container {
+        margin-left: 48px;
+        margin-right: 286px;
+    }
+}
+
+@media screen and (max-width:1023px) {
+    .intro__container {
+        margin-top: 88px;
+        margin-left: 16px;
+        margin-right: 32px;
+        margin-bottom: 88px;
+        max-width: 720px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .intro__container {
+        max-width: 288px;
+        margin-top: 64px;
+        margin-left: 16px;
+        margin-right: 16px;
+        margin-bottom: 64px;
+        /*max-width: 100%;
+        min-height: 100%;*/
+    }
+}
