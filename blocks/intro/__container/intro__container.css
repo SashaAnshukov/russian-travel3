@@ -27,8 +27,7 @@
 @media screen and (max-width:767px) {
     .intro__container {
         max-width: 288px;
-        margin-top: 64px;
-        margin-left: 16px;
+        margin-top: 64px; 
         margin-right: 16px;
         margin-bottom: 64px;
         /*max-width: 100%;
